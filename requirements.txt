@@ -6,4 +6,4 @@ scikit-learn
 catboost
 xgboost
 
-#-e .   # Try to comment it when you install any package
+-e .   # Try to comment it when you install any package
